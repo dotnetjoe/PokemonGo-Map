@@ -10,4 +10,4 @@ It's been my pleasure to get to know each of you guys: the core development team
 #### Edit:
 Thank you all for the kind words and offers of help! I'd like to clarify that the main reason I chose to shut it down was because I’ve lost interest rather than legal concerns. Niantic’s actions towards 3rd party developers have been very off-putting and it has killed my personal motivation to work on this project. This was a fun weekend project for a game I enjoyed, and now I’ve lost interest in both. I won’t resume development, but there are [active forks of this project][1] you could use.
 
-[1]:	https://github.com/PokemonGoMap/PokemonGo-Map
+[1]:	https://github.com/RocketMap/RocketMap
